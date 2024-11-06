@@ -1234,10 +1234,10 @@ json-buffer@3.0.1:
   resolved "https://registry.yarnpkg.com/json-buffer/-/json-buffer-3.0.1.tgz#9338802a30d3b6605fbe0613e094008ca8c05a13"
   integrity sha512-4bV5BfR2mqfQTJm+V5tPPdf+ZpuhiIvTuAB5g8kcrXOZpTT/QwwVRWBywX1ozr6lEuPdbHxwaJlm9G6mI2sfSQ==
 
-json-pointer-relational@^1.0.2:
-  version "1.0.2"
-  resolved "https://registry.yarnpkg.com/json-pointer-relational/-/json-pointer-relational-1.0.2.tgz#221afec91c9eda275fe68dd7a692fc935c186e0b"
-  integrity sha512-/ycV3VGAEFC1bMH16rNodxk8y+G13U6CIuYyMAgfttjiDxSXU1b8WgVSSlDch33JevBEZET1wFdhguaFE2durw==
+json-pointer-relational@^1.0.3:
+  version "1.0.3"
+  resolved "https://registry.yarnpkg.com/json-pointer-relational/-/json-pointer-relational-1.0.3.tgz#fd04b2fd5fecef0e5e777ad62e43fa17f8045cc6"
+  integrity sha512-BQaGxLPCGETAr2vscvC9/l5BaU6Rzo7GRnA+7zbIbMvVdES2fqyfBSiQLG53RtLySY11Ie0z0jQEhvlcNgRjYw==
 
 json-schema-traverse@^0.4.1:
   version "0.4.1"
