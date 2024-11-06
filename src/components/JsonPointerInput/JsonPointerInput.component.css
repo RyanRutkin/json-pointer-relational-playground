@@ -1,0 +1,16 @@
+.app-json-pointer-input {
+    display: flex;
+    height: 2em;
+}
+.app-json-pointer-input-element {
+    height: 100%;
+    width: 100%;
+}
+.app-json-pointer-input-wrapper {
+    width: 8em;
+}
+.app-json-pointer-input-remove-btn {
+    padding: 0.4em !important;
+    border-top-left-radius: 0px !important;
+    border-bottom-left-radius: 0px !important;
+}
